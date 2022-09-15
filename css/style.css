@@ -1,0 +1,40 @@
+p.text {
+    color: aqua;
+}
+.climate {
+    color: rgb(204, 204, 14);
+}
+.relief.text{
+    color: blue;
+}
+.geography p{
+    color: blueviolet;
+}
+/* p {
+    color: aquamarine;
+}
+p{
+    color: brown;
+} */
+/* *{
+    color: rgb(228, 15, 15);
+} */
+#about-text{
+    color: rgb(197, 17, 17);
+}
+.origin,
+.history{
+    color: rgb(160, 76, 8);
+}
+.history text div.history{
+
+}
+.culture-brazil li{
+    color: rgb(20, 20, 238);
+}
+.culture-brazil p{
+color: rgb(233, 116, 6);
+}
+.culture-brazil p{
+    color: rgb(27, 235, 8);
+    }
